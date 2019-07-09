@@ -1,0 +1,14 @@
+.answer{
+    margin-left: 10px;
+}
+.questions{
+    margin:10px;
+}
+.correctAnswer{
+    border: 3px solid green;
+
+}
+.incorrectAnswer{
+    border: 3px solid red;
+
+}
